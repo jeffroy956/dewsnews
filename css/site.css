@@ -3,7 +3,7 @@ body {
     margin: 20px;
     max-width: 1200px;
     margin: 0 auto;
-    padding-top: 20px;
+    padding: 20px 10px;
 }
 
 footer {
@@ -19,6 +19,6 @@ article {
 
 article img {
     width: 90vw;
-    max-width: 1200px;
+    max-width: 1160px;
     height: auto;
 }
